@@ -17,6 +17,11 @@ Além disso, foi criada uma **API personalizada** para exibir informações sobr
 
 ---
 
+## 🎥 Demo
+![Demonstração do Projeto](https://github.com/gustavoscgomes/animais-fantasticos/blob/main/images/screenshot.gif)
+
+---
+
 ## 🛠 **Tecnologias Utilizadas**
 
 - **HTML5**
